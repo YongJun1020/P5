@@ -1,2 +1,2 @@
 # P5
-Bla bla bla bla bla bla
+This is P6 group
